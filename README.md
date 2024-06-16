@@ -1,4 +1,4 @@
-# Marketplace
+# Marketplace on Cardano chain
 
 Marketplace with the features like
 - Minting
