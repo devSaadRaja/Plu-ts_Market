@@ -1,5 +1,8 @@
-# hello-pluts-react
+# Marketplace
 
-this is a starter template for a [`plu-ts`](https://github.com/HarmonicLabs/plu-ts) + [`mesh`](https://github.com/MeshJS/mesh) project;
+Marketplace with the features like
+- Minting
+- Simple buy/sell trade 
+- Auction
 
-to complete this project refer to the[`Hello plu-ts` example project in the `plu-ts` documentation](https://pluts.harmoniclabs.tech/docs/examples/Hello%20World)
+Made using [`plu-ts`](https://github.com/HarmonicLabs/plu-ts) + [`meshjs`](https://github.com/MeshJS/mesh)
